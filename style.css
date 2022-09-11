@@ -1,0 +1,926 @@
+
+
+.banner-section {
+    background-color: #fcf1f1;
+    min-height: 200px;
+}
+
+.banner-top-1 {
+    background-color: #eedede;
+    width: 100%;
+}
+
+.nav-bg {
+    background-color: rgb(245, 125, 125);
+}
+
+#nav-bg-toggler {
+    background-color: #ffffff;
+}
+
+#nav-logo {
+    font-size: 23px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-style: italic;
+    color: #542b22;
+}
+
+
+
+#nav-links {
+    font-style: italic;
+}
+
+.banner-img-1{
+    min-height: 200px;
+    width: 100vw;
+
+}
+
+
+.signup-box {
+    width: 300px;
+    height: 560;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.sign-up-heading {
+    text-align: center;
+    padding-top: 13px;
+    font-size: 23px;
+}
+
+
+
+.form-style {
+    width: 100%;
+    margin-left: 10px;
+}
+
+form label {
+    display: flex;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+form input {
+    width: 90%;
+    padding: 2px;
+    border: none;
+    border: 1px solid gray;
+}
+
+input[type="button"]{
+    width: 130px;
+    height: 35px;
+    margin-top: 10px;
+    border: none;
+    background-color: #49c1a2;
+    color: #ffffff;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-top: 19px;
+}
+
+.form-para-1 {
+    margin-top: 8px;
+    padding-top: 6px;
+    font-size: 10px;
+}
+
+.form-para-2 {
+    padding-top: 9px;
+    font-size: 10px;
+}
+
+.form-para-2 a {
+    color: #49c1a2;
+}
+
+.form-img {
+    height: 500px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.banner-text h2{
+    font-size: 13px;
+    color: rgb(203, 83, 83);
+}
+
+.banner-text h1{
+    font-size: 20px;
+    font-weight: 750;
+    color: black;
+}
+
+.banner-text p{
+    font-size: 10px;
+    font-weight: 500;
+    color: rgb(179, 153, 153);
+}
+
+.custom-button {
+    background-color: rgb(184, 113, 113);
+    font-size: 14px;
+    height: 38px;
+    width: 120px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 8px;
+    border-width: 0px;
+    
+}
+
+.banner-img-2 {
+    height: 550px;
+    width: 100%;
+
+}
+
+.stats-section {
+    background-color: rgb(249, 236, 219);
+}
+
+
+.stats-heading-1 {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(66, 59, 59);
+}
+
+.stats-heading-2 {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(125, 129, 104);
+}
+
+.stats-heading-3 {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(169, 173, 150);
+}
+
+.stats-heading-4 {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(146, 157, 89);
+}
+
+.stats-para {
+    font-size: 6px;
+    font-weight: 500;
+    color: rgb(167, 140, 140);
+}
+
+.catageries-main-heading {
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+}
+
+
+.catageries-card {
+    background-color: aliceblue;
+    border-radius: 16px;
+    height: 39px;
+    width: 155px;
+    text-align: center;
+    padding: 8px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.catageries-card-heading {
+    font-size: 10px;
+    font-weight: 700;
+
+}
+
+
+
+.courses-main-heading {
+    font-size: 21px;
+    font-weight: 600;
+    color: rgb(175, 88, 88);
+}
+
+.courses-main-description {
+    font-size: 23px;
+    font-weight: 630;
+    color: black;
+}
+
+
+.course-img {
+    height: 180px;
+    width: 100%;
+}
+
+.course-img-heading {
+    font-size: 17px;
+    font-weight: 700;
+    color: rgb(90, 76, 76);
+}
+
+.course-author-name {
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 0px;
+
+}
+
+.courses-button {
+    background-color: rgb(184, 113, 113);
+    font-size: 12px;
+    height: 38px;
+    width: 140px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 8px;
+    border-width: 0px;
+    
+}
+
+
+
+
+
+.testimonials-section-bg-container {
+    background-color: #edcfcf;
+}
+
+.testimonial-heading {
+    font-size: 28px;
+    font-weight: bold;
+    color: #977a5d;
+}
+
+.testimonial-heading-2 {
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+.carousal-card {
+    background-color: rgb(238, 227, 227);
+}
+
+.carousal-image {
+    height: 105px;
+    width: 110px;
+    border-radius: 55px;
+}
+
+.testimonial-para {
+    font-size: 18px;
+    font-weight: 500px;
+    color: #706f6a;
+}
+
+.testimonial-para-2 {
+    font-size: 13px;
+    font-weight: 500px;
+    color: rgb(90, 76, 76);
+}
+
+
+
+.course-main-heading {
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+
+#star-style {
+    background-color: #ffa500;
+}
+
+.star-rating {
+    font-size: 15px;
+    font-weight: 700;
+    color: #ffa500;
+    margin-right: 8px;
+}
+
+.course-price {
+    font-size: 19px;
+    font-weight: 700;
+    color: black;
+    margin-top: 7px;
+}
+
+
+.course-price-2 {
+    font-size: 13px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+.best-seller-button {
+    height: 25px;
+    width: 70px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #494444;
+    background-color: #bef98a;
+    border-radius: 3px;
+    border-width: 0px;
+}
+
+
+
+.experts-card {
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.experts-img {
+    height: 115px;
+    width: 115px;
+    border-radius: 55px;
+}
+
+
+.experts-name {
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.experts-course-title {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.experts-course {
+    margin-bottom: 0px;
+}
+
+
+.instructor-section {
+   background-color: aliceblue;
+}
+
+.instructor-join-card {
+   padding-left: 10px;
+   
+}
+
+
+
+.instructor-img {
+    height: 250px;
+}
+
+.instructor-heading {
+    font-size: 34px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 50px;
+
+}
+
+.instructor-para {
+    font-size: 23px;
+    font-weight: 700;
+    margin-top: 80px;
+    
+}
+
+.join-us-button {
+    background-color: rgb(184, 113, 113);
+    font-size: 12px;
+    height: 35px;
+    width: 110px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-top: 15px;
+    
+}
+
+.footer-section {
+    background-color: #49c1a2;
+    padding: 5px;
+}
+
+.footer-logo-h {
+     font-size: 16px;
+     font-weight: 700;
+     font-style: italic;
+     margin-left: 5px;
+     letter-spacing: 2px;
+}
+
+
+
+.popular-page-heading {
+    font-size: 38px;
+    font-weight: 700;
+    color: black;
+}
+
+.popular-detail-page-button {
+    background-color: rgb(184, 113, 113);
+    font-size: 13px;
+    height: 36px;
+    width: 110px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-top: 8px;
+    margin-left: 11px;
+}
+
+.view-detail-button {
+    background-color: rgba(219, 82, 82, 0.986);
+    font-size: 10px;
+    height: 30px;
+    width: 90px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-top: 8px;
+}
+
+.video-size{
+    height: 300px;
+    width: 100%;
+}
+
+.popular-course-main-heading {
+    font-size: 38px;
+   font-weight: 700;
+   color: black;
+}
+
+.descriptions {
+   font-size: 16px;
+   font-weight: 600;
+   color: black;
+}
+
+.author-description1{
+   font-size: 16px;
+   font-weight: 700;
+   color: black;
+}
+
+#author-name-description {
+    font-size: 19px;
+   font-weight: 700;
+   color: rgb(85, 59, 118);
+}
+
+.content-course-card {
+    background-color: #eedede;
+    padding: 15px;
+}
+
+.content-card-main-heading {
+    font-size: 29px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 10px;
+}
+
+
+
+.course-includes-card {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #5e5d5d;
+}
+
+
+.requirement-card{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #5e5d5d;
+    padding: 10px;
+}
+
+.buy-now-price-container {
+    background-color: black;
+}
+
+.price-tag {
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    padding-left: 10px;
+}
+
+.buy-now-botton {
+    background-color: rgb(83, 16, 218);
+    font-size: 13px;
+    height: 38px;
+    width: 130px;
+    color: #ffffff;
+    font-weight: 500;
+    border-radius: 6px;
+    border-width: 0px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+.add-to-cart-button{
+    background-color: #bef98a;
+    font-size: 13px;
+    height: 39px;
+    width: 120px;
+    color: #3a2020;
+    font-weight: 500;
+    border-radius: 6px;
+    border-width: 0px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+.text-price {
+    font-size: 13px;
+    text-decoration: underline;
+
+}
+
+.logo-about-us {
+    font-style: italic;
+    font-size: 32px;
+    font-weight: 700;
+    color: black;
+    padding-top: 20px;
+    letter-spacing: 3px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+
+.about-us-img {
+    height: 300px;
+    width: 100%;
+}
+
+.about-us-heading {
+    font-size: 29px;
+    font-weight: 720;
+    color: black;
+    padding-top: 20px;
+}
+
+.company-news-container {
+    background-color: #2a0985;
+    padding: 20px;
+}
+
+.company-news-container-sapn-h {
+    font-size: 15px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.company-news-container-heading {
+    font-size: 18px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.about-us-heading-2 {
+    font-size: 30px;
+    font-weight: 650;
+    color: black;
+    text-align: center;
+    padding-top: 48px;
+}
+
+.about-us-para {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+
+.carousal-image-about-us {
+    height: 350px;
+    width: 100%;
+}
+
+#carousal-button {
+    background-color: #2a0985;
+}
+
+
+.stats-container {
+    background-color: #53389d;
+    padding: 15px;
+}
+
+.stats-container-heading {
+    font-size: 29px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.stats-container-para {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.stats-container-h {
+    font-size: 28px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+}
+
+.stats-container-p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+}
+
+.button-learn-more {
+    background-color: #171817;
+    font-size: 14px;
+    height: 39px;
+    width: 110px;
+    color: #fbf1f1;
+    font-weight: 700;
+    border-radius: 4px;
+    border-width: 0px;
+    margin-top: 8px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
+
+
+.educa-para {
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+
+}
+   
+.persons-name {
+    font-size: 21px;
+    font-weight: 700;
+    color: black;
+    padding-top: 15px;
+}
+
+
+.comma {
+    font-size: 43px;
+    font-weight: 800;
+    color: rgb(80, 20, 149);
+}
+
+.icons {
+    font-size: 35px;
+   padding-left: 10px;
+   padding-top: 38px;
+}
+
+.top-companies-heading {
+    font-size: 26px;
+    font-weight: 700;
+    color:black;
+    text-align: center;
+    padding-top: 48px;
+}
+
+
+.about-us-card-container-1 {
+    background-color: #5d39c0;
+    padding: 24px;
+}
+
+.about-us-card-container-2 {
+    background-color: #8de01f;
+    padding: 24px;
+}
+
+.about-us-card-container-3 {
+    background-color: #b38b73;
+    padding: 24px;
+}
+
+.about-us-card-container-heading {
+    font-size: 33px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.about-us-card-container-heading-2 {
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.about-us-card-container-para {
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.about-us-card-container-para-2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.about-us-card-container-h-2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.about-us-card-container-h {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.about-us-footer {
+    background-color: #171817;
+}
+
+
+.icons-footer {
+    font-size: 28px;
+   padding-left: 10px;
+   padding-top: 10px;
+   color: #49c1a2;
+   padding-left: 15px;
+   padding-bottom: 10px;
+}
+
+.follow-us-h {
+    font-size: 28px;
+    font-weight: 500;
+    color: #49c1a2;
+    padding-bottom: 10px;
+}
+
+.hr-tag-footer {
+    width: 100%;
+    border-color: #49c1a2;
+    border-style: solid;
+    background-color: #49c1a2;
+    
+}
+
+.footer-link-about-us {
+    font-size: 18px;
+    font-family: 500;
+    color: #49c1a2;
+    margin-bottom: 15px;
+}
+
+
+
+.footer-logo {
+    font-style: italic;
+    font-size: 32px;
+    font-weight: 700;
+    color: #49c1a2;
+    padding-top: 20px;
+    letter-spacing: 3px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+}
+
+
+.about-us-heading-md {
+    font-size: 50px;
+    font-weight: 720;
+   padding: 25px;
+   margin-top: 35px;
+   
+}
+
+
+
+
+
+*{
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+main{
+    max-width: 800px;
+    margin: 5vh auto;
+    padding: 20px;
+}
+
+.fq-h-1{
+    font-size: 42px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    color: #707070;
+}
+
+.fq-h-2{
+    font-size: 25px;
+    font-weight: 400;
+    color: #5e5d5d;
+}
+
+.faq{
+    padding: 20px 30px;
+    border: 1px solid rgba(0 0 0 / .1);
+    border-radius: 5px;
+    color: #979797;
+    position: relative;
+    line-height: 1.5em;
+    margin-top: 15px;
+}
+
+.faq .faq_text{
+    width: 90%;
+}
+
+.btn{
+    color: #5e5d5d;
+    position: absolute;
+    right: 25px;
+    top: 35px;
+    font-weight: 400;
+    font-size: 1.4em;
+    cursor: pointer;
+}
+
+/* Hide p tags */
+.faq.open h2{
+    color: #00848f;
+}
+
+.faq p{
+    display: none;
+    font-weight: 300;
+}
+
+.faq.open p{
+    display: block;
+}
+.faq.open .btn{
+    color: #00848f;
+}
+
+
+
+/* Footer */
+footer{
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+    border-top: 1px solid rgba(00 84 80 / .2);
+    padding-top: 50px;
+}
+
+footer h2 {
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+footer p{
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.8em;
+}
+
+@media (min-width: 720px){
+    footer p{
+        width: 80%;
+    }
+}
+
+
+
